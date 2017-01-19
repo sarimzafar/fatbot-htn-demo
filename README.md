@@ -14,7 +14,7 @@ The bot also has the capability to show various graphs relating to regular calor
 
 # Technical 
 
-The bot is built using a dominant JavaScript front-end library called BootBot. The library helps modularize conversations and is reponsible for fetching and posting information. The bot also utilizes Google's Natural Language Processing API for parsing the user input and converting into meaningful data. 
+The bot is built using a JavaScript front-end library called BootBot. The library helps modularize conversations and is reponsible for fetching and posting information. The bot also utilizes Google's Natural Language Processing API for parsing the user input and converting into meaningful data. 
 
 For the calorie database, the project uses FatSecret API which is communicated mostly through the bot's PHP backend. Most of the graph generation and data processing occurs on its PHP framework. 
 
